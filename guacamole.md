@@ -2,4 +2,8 @@
 
 ## Ingredients
 
+- avocados
+- oil
+- lemon
+
 ## Steps
