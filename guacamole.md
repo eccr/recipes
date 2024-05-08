@@ -4,6 +4,6 @@
 
 - avocados
 - oil
-- lemon
+- lime
 
 ## Steps
